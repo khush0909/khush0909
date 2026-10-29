@@ -1,29 +1,32 @@
 <div align="center">
 
-# 👋 Hi, I'm Khush Sahu
-### 🚀 Data Analyst, Analytics Engineer & ML Developer | B.Tech in Computer Science & Engg.
+<!-- 🌊 DYNAMIC ANIMATED 3D WAVE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:00f2fe&height=220&section=header&text=Khush%20Sahu&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%E2%80%A2%20Analytics%20Engineer%20%E2%80%A2%20ML%20Developer&descAlignY=58&descSize=20" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Data+Analytics+%7C+Analytics+Engineering+%7C+Machine+Learning;Alteryx+%7C+SQL+%7C+Power+BI+%7C+Python+%7C+FastAPI+%7C+Scikit-Learn;Architecting+Automated+ETL+Pipelines+%26+Predictive+Intelligence)](https://git.io/typing-svg)
+<!-- ⌨️ LIVE MULTI-LINE TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=80&lines=%F0%9F%9A%80+Architecting+Automated+Alteryx+%26+SQL+ETL+Pipelines;%F0%9F%93%8A+Building+Executive+Power+BI+Suites+%26+Predictive+ML+Systems)](https://github.com/khush0909)
 
+<!-- 🎯 DYNAMIC PULSING STATUS & SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Khush_Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushsahu)
 [![Email](https://img.shields.io/badge/Email-sahukhush2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahukhush2005@gmail.com)
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khush0909)
-[![Location](https://img.shields.io/badge/Location-India_(Open_to_Relocation)-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-khush0909-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khush0909)
+[![Profile Views](https://komarev.com/ghpvc/?username=khush0909&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge)](https://github.com/khush0909)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 Executive Summary
 
-Results-driven **Data Analyst & ML Engineer** (B.Tech CSE) with corporate advisory experience at **KPMG**, specializing in enterprise transaction reconciliation, automated **Alteryx & SQL** data pipelines, executive **Power BI** intelligence suites, and production **Python/FastAPI** machine learning systems.
-
-- ⚡ **Enterprise Analytics Impact:** Engineered multi-million row financial reconciliation workflows and compliance audit pipelines, achieving **99.94% audit accuracy** and **85% latency reduction**.
-- 🔭 **Core Engineering Pillars:** Enterprise ETL & Data Modeling (`Alteryx`, `SQL`, `Excel Power Query`), Executive BI (`Power BI`, `DAX`, `Tableau`), and Applied AI/ML (`Scikit-Learn`, `TensorFlow`, `FastAPI`, `Django`).
-- 🎯 **Current Focus:** Intelligent Document Processing (IDP) microservices, automated workflow orchestration, and scalable predictive modeling.
-
----
-
+name: Khush Sahu
+education: B.Tech in Computer Science & Engineering (2026)
+corporate_experience: Data Analyst Intern @ KPMG Assurance & Consulting Services LLP
+location: India (Open to Pan-India Relocation)
+core_domains:
+  - Enterprise ETL & Financial Reconciliation (Alteryx Designer, SQL, Power Query)
+  - Executive Business Intelligence (Power BI, DAX, Tableau)
+  - Applied Machine Learning & IDP Microservices (Python, FastAPI, Scikit-Learn, TensorFlow)
+key_benchmark: 99.94% Audit Accuracy | 85% Reporting Latency Reduction
 ## 🛠️ Technical Arsenal & Data Stack
 
 <div align="center">
